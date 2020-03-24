@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hive()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ G\u00E8re\ la\ cr\u00E9ation\ des\ petites\ particules\ et\ l'encha\u00EEnement\ de\ la\ transparence\r\n
+comment2.params=hurt\ classe
+comment2.target=void\ takeDamageNew(int,\ java.lang.Class)
+comment2.text=\r\n\ Subit\ des\ d\u00E9g\u00E2ts.\ Si\ ses\ points\ de\ vie\ tombent\ \u00E0\ z\u00E9ro,\ elle\ dispara\u00EEt\r\n
+numComments=3

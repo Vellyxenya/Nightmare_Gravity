@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Predator()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Cr\u00E9e\ des\ trous\ noirs\ invisible\ qui\ lui\ servent\ de\ directeur\ de\ d\u00E9placement\r\n
+comment2.params=mass
+comment2.target=void\ applyGravity(int)
+comment2.text=\r\n\ Applique\ la\ formule\ de\ Newton\ \u00E0\ cet\ objet\r\n
+comment3.params=
+comment3.target=void\ detectTrap2()
+comment3.text=\r\n\ D\u00E9tecte\ et\ enl\u00E8ve\ le\ trou\ noir\ s'il\ s'en\ approche\ trop\ et\ le\ recr\u00E9e\ plus\ loin\r\n
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Devices()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ stopMove()
+comment2.text=\r\n\ S'immobilise\ pour\ viser\ le\ joueur\r\n
+comment3.params=hurt\ classe
+comment3.target=void\ takeDamageNew(int,\ java.lang.Class)
+comment3.text=\r\n\ M\u00E9thode\ permettant\ de\ le\ rendre\ sensible\ aux\ d\u00E9g\u00E2ts\ et\ d'exploser,\ pour\ autant\ qu'il\ ne\ soit\ pas\ en\ train\ de\ cibler\ le\ joueur\r\n
+numComments=4

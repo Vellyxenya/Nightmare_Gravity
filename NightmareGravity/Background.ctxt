@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Background()
+comment0.text=\r\n\ Construit\ les\ objets\ et\ initialise\ les\ valeurs\ des\ pseudo/mot\ de\ passe\r\n\ Initialise\ \u00E9galement\ les\ images\ pour\ l'animation\ de\ d\u00E9but\ de\ partie\ (ceci\ afin\ que\r\n\ l'initialisation\ ne\ se\ fasse\ qu'une\ seule\ fois.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ trackMovements()
+comment2.text=\r\n\ M\u00E9thode\ permettant\ \u00E0\ l'utilisateur\ d'interagir\ avec\ l'interface\:\ cliques,\ mouvements,\ souris,\ \r\n\ effets\ visuels...\r\n
+comment3.params=
+comment3.target=void\ show()
+comment3.text=\r\n\ M\u00E9thode\ affichant\ le\ pseudo\ ainsi\ que\ les\ ast\u00E9risques\ \u00E0\ l'\u00E9cran\r\n
+comment4.params=
+comment4.target=void\ writeID()
+comment4.text=\r\n\ M\u00E9thode\ qui\ \u00E9crit\ le\ pseudo\ et\ le\ stocke\ dans\ une\ variable,\r\n\ certains\ caract\u00E8res\ sont\ interdits\r\n\ et\ la\ longueur\ du\ pseudo\ est\ limit\u00E9e\r\n
+comment5.params=
+comment5.target=void\ writePW()
+comment5.text=\r\n\ M\u00E9thode\ qui\ \u00E9crit\ le\ mot\ de\ passe\ et\ le\ stocke\ dans\ une\ variable,\ certains\ caract\u00E8res\ sont\ interdits\r\n\ et\ la\ longueur\ du\ mot\ de\ passe\ est\ limit\u00E9e.\ Seul\ un\ code\ en\ ast\u00E9risques\ est\ affich\u00E9\r\n\ \u00E0\ l'\u00E9cran\r\n
+numComments=6

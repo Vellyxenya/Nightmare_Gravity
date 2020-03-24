@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ effect()
+comment1.text=\r\n\ Effet\ visuel\ s'ils\ sont\ touch\u00E9s\ par\ le\ laser\ du\ vaisseau\ 1\r\n
+comment2.params=x
+comment2.target=void\ drop(int)
+comment2.text=\r\n\ Tous\ les\ vaisseaux\ ennemis\ ont\ une\ certaine\ chance\ de\ laisser\ des\ potions/cr\u00E9dits\ \u00E0\ leur\ disparition\r\n
+comment3.params=hurt\ classe
+comment3.target=void\ takeDamageNew(int,\ java.lang.Class)
+comment3.text=\r\n\ Subit\ des\ d\u00E9g\u00E2ts\ des\ armes\ des\ vaisseaux\r\n
+numComments=4

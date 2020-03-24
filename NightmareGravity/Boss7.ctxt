@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Boss7()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ takeDamage()
+comment2.text=\r\n\ M\u00E9thode\ rendant\ le\ boss\ sensible\ aux\ d\u00E9g\u00E2ts\ et\ le\ faisant\ dispara\u00EEtre\ si\ sa\ vie\ tombe\ \u00E0\ z\u00E9ro\r\n
+comment3.params=
+comment3.target=void\ movements()
+comment3.text=\r\n\ Le\ boss\ d\u00E9crit\ un\ pentagone\ dans\ son\ mouvement\r\n
+comment4.params=
+comment4.target=void\ createClones()
+comment4.text=\r\n\ Effet\ visuel\ de\ d\u00E9filement\r\n
+comment5.params=
+comment5.target=void\ dominate()
+comment5.text=\r\n\ Cr\u00E9e\ l'objet\ qui\ immobilise\ le\ joueur\r\n
+comment6.params=
+comment6.target=void\ swap()
+comment6.text=\r\n\ Permet\ au\ joueur\ de\ permuter\ sa\ position\ avec\ celle\ du\ boss\ pour\ \u00E9viter\ un\ obstacle\ par\ exemple\r\n
+comment7.params=
+comment7.target=void\ createBombs()
+comment7.text=\r\n\ Cr\u00E9e\ des\ bombes\ tout\ autant\ l\u00E9tales\ pour\ lui\ que\ pour\ le\ joueur\r\n
+numComments=8

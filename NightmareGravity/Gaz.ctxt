@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Gaz()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ heatWave()
+comment2.text=\r\n\ Dessine\ un\ \u00E9cran\ avec\ plein\ de\ petits\ points\ rouge\u00E2tres\r\n
+comment3.params=
+comment3.target=void\ disappear()
+comment3.text=\r\n\ Enl\u00E8ve\ les\ ast\u00E9ro\u00EFdes\ non\ coll\u00E9s\ au\ vaisseau.\r\n
+comment4.params=
+comment4.target=void\ modifyDamage()
+comment4.text=\r\n\ Plus\ il\ y\ a\ d'ast\u00E9ro\u00EFdes\ autour\ du\ vaisseau,\ moins\ celui-ci\ subit\ de\ d\u00E9g\u00E2ts\r\n
+numComments=5

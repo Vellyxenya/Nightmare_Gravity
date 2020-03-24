@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Arc()
+comment0.text=\r\n\ Initialise\ l'arc\ qui\ relie\ 2\ Magnet\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ disappear()
+comment2.text=\r\n\ Dispara\u00EEt\ juste\ apr\u00E8s\ sa\ disparition\ afin\ de\ donner\ un\ effet\ \u00E9lectrique\r\n
+numComments=3

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=movement
+comment0.target=Gear3(Vector)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ fire()
+comment2.text=\r\n\ Tire\ des\ balles\ avec\ une\ certaine\ dispersion\r\n
+comment3.params=
+comment3.target=void\ loseEnergy()
+comment3.text=\r\n\ Perd\ de\ l'\u00E9nergie\ quand\ il\ est\ invisible\r\n
+comment4.params=
+comment4.target=void\ inv()
+comment4.text=\r\n\ Devient\ invisible\r\n
+comment5.params=
+comment5.target=boolean\ isInvisible()
+comment5.text=\r\n\ Retourne\ si\ le\ vaisseau\ est\ invisible\ ou\ pas\r\n
+comment6.params=
+comment6.target=void\ adjustLife()
+comment6.text=\r\n\ M\u00E9thode\ emp\u00EAchant\ que\ la\ barre\ de\ vie\ se\ "surcharge"\r\n
+numComments=7

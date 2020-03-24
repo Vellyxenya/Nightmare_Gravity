@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Shield()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ follow()
+comment2.text=\r\n\ Suit\ Reflector\ pour\ le\ prot\u00E9ger\r\n
+comment3.params=
+comment3.target=void\ protect()
+comment3.text=\r\n\ Enl\u00E8ve\ les\ balles\ qu'ils\ touche,\ prot\u00E9geant\ ainsi\ son\ vaisseau\r\n
+comment4.params=
+comment4.target=void\ stun()
+comment4.text=\r\n\ Cr\u00E9e\ un\ objet\ Electricity\ qui\ inflige\ des\ d\u00E9g\u00E2ts\ au\ joueur\ si\ cet\ objet\ est\ touch\u00E9\ par\ un\ laser\r\n
+numComments=5

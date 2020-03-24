@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Boss2()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=hurt\ classe
+comment2.target=void\ takeDamageNew(int,\ java.lang.Class)
+comment2.text=\r\n\ Sensible\ aux\ d\u00E9g\u00E2ts.\r\n
+comment3.params=
+comment3.target=void\ fire()
+comment3.text=\r\n\ S'entoure\ d'orbes\ puis\ les\ projette\r\n
+comment4.params=
+comment4.target=void\ shoot()
+comment4.text=\r\n\ Projette\ les\ orbes\ dans\ toutes\ les\ directions\r\n
+comment5.params=
+comment5.target=void\ readyAgain()
+comment5.text=\r\n\ Le\ cycle\ recommence\r\n
+numComments=6

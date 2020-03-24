@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Select()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ select()
+comment2.text=\r\n\ S\u00E9lectionne\ le\ vaisseau\ actuel\ pour\ la\ prochaine\ partie\r\n
+numComments=3

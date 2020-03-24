@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deck()
+comment0.text=\r\n\ Initialise\ les\ objets\ \u00E9quip\u00E9es\ etc...\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ putText()
+comment2.text=\r\n\ Affiche\ ce\ que\ symbolise\ chaque\ tableau\ de\ comp\u00E9tences\r\n
+comment3.params=
+comment3.target=void\ putObjects()
+comment3.text=\r\n\ Ajoute\ les\ tableaux\ de\ comp\u00E9tences\ \u00E0\ la\ sc\u00E8ne\r\n
+comment4.params=
+comment4.target=void\ putNewObjects()
+comment4.text=\r\n\ Ajoute\ les\ comp\u00E9tences\ concern\u00E9es\ si\ elles\ ont\ \u00E9t\u00E9\ achet\u00E9es\r\n
+numComments=5

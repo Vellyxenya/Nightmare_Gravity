@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Boss9()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ fire()
+comment2.text=\r\n\ Projette\ des\ balles\ dans\ toutes\ les\ directions\ depuis\ les\ 12\ pores\ du\ boss\r\n
+numComments=3

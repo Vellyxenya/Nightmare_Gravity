@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=rotation
+comment0.target=RaptorWeapon(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ count()
+comment2.text=\r\n\ D\u00E9clenche\ le\ compteur\ s'il\ touche\ un\ objet\ de\ la\ classe\ Gears\r\n
+comment3.params=
+comment3.target=void\ disappear()
+comment3.text=\r\n\ Dispara\u00EEt\ apr\u00E8s\ 2\ acts\r\n
+numComments=4

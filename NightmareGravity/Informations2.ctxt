@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=Informations2(java.lang.String)
+comment0.text=\r\n\ Initialise\ l'image\ en\ prenant\ en\ compte\ la\ longueur\ du\ message\ et\ des\ retours\ \u00E0\ la\ ligne\ forc\u00E9s\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=space\ width\ color
+comment2.target=void\ drawBackground(int,\ int,\ java.awt.Color)
+comment2.text=\r\n\ Dessine\ le\ pourtour\ du\ rectangle\ avec\ des\ coins\ arrondis\r\n
+comment3.params=
+comment3.target=void\ write()
+comment3.text=\r\n\ Ecrit\ la\ prochaine\ lettre\ du\ message\ \u00E0\ chaque\ act\r\n
+comment4.params=
+comment4.target=void\ disappear()
+comment4.text=\r\n\ l'\u00E9cran\ dispara\u00EEt\ quand\ l'utilisateur\ presse\ sur\ "Enter"\r\n
+numComments=5

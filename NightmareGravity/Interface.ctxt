@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ mouseOn()
+comment0.text=\r\n\ D\u00E9tecte\ si\ la\ souris\ est\ sur\ tel\ objet\r\n
+comment1.params=
+comment1.target=boolean\ isPaused()
+comment1.text=\r\n\ Renvoie\ si\ le\ jeu\ est\ pause\ ou\ en\ ex\u00E9cution\r\n
+comment2.params=x\ y
+comment2.target=void\ setLocation(double,\ double)
+comment2.text=\r\n\ D\u00E9finit\ les\ coordonn\u00E9es\ pr\u00E9cises\ d'un\ acteur\r\n
+comment3.params=distance
+comment3.target=void\ move(double)
+comment3.text=\r\n\ Fait\ bouger\ l'acteur\ dans\ la\ direction\ actuelle\ en\ utilisant\ des\ coordonn\u00E9es\ exactes\r\n
+numComments=4

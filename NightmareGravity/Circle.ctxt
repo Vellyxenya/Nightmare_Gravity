@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Circle(int)
+comment0.text=\r\n\ Constructeur\ qui\ cr\u00E9e\ des\ cercles\ qui\ apparaissent\ autour\ du\ joueur\r\n
+comment1.params=
+comment1.target=Circle()
+comment1.text=\r\n\ Constructeur\ qui\ cr\u00E9e\ les\ Circles\ qui\ spawn\ al\u00E9atoirement\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=fileName
+comment3.target=void\ initializeImages(java.lang.String)
+comment3.text=\r\n\ Initialise\ les\ images\ du\ grossissement\ du\ cercle\r\n
+comment4.params=
+comment4.target=void\ propagate()
+comment4.text=\r\n\ Fait\ grandir\ le\ Cercle\ (l'objet\ est\ tr\u00E8s\ petit\ et\ grandit\ en\ une\ fraction\ de\ seconde)\r\n\ Pour\ \u00E9viter\ des\ Cercle\ qui\ apparaissent\ o\u00F9\ il\ y\ a\ d\u00E9j\u00E0\ d'autres\ Circles.\r\n
+comment5.params=
+comment5.target=void\ damageGear()
+comment5.text=\r\n\ Ne\ fait\ des\ d\u00E9g\u00E2ts\ que\ s'il\ est\ au\ maximum\ de\ sa\ taille\r\n
+comment6.params=
+comment6.target=void\ movements()
+comment7.params=
+comment7.target=void\ justBounce()
+comment7.text=\r\n\ Rebondit\ contre\ les\ autres\ cercles\r\n
+comment8.params=
+comment8.target=void\ detectWeapons()
+comment8.text=\r\n\ Si\ le\ cercle\ est\ touch\u00E9\ par\ un\ tir,\ un\ \u00E9clair\ infligeant\ des\ d\u00E9g\u00E2ts\ est\ cr\u00E9\u00E9\ sur\ la\ sc\u00E8ne\ comme\ punition\r\n
+numComments=9

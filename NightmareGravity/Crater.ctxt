@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Crater()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ explode()
+comment2.text=\r\n\ Tourne\ et\ \u00E9met\ des\ particules\ en\ forme\ de\ spirale.\r\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=About()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Fait\ d\u00E9filer\ l'image\ de\ cette\ sc\u00E8ne\ de\ haut\ en\ bas\ selon\ le\ mouvement\ de\ la\ roue\ de\ la\ souris\r\n\ Revient\ au\ menu\ principal\ en\ cliquant\ sur\ "escape"\r\n
+numComments=2

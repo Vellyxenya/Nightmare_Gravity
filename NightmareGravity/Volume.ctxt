@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Volume()
+comment0.text=\r\n\ Construit\ l'image\ de\ base\ du\ bouton\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Active/d\u00E9sactive\ la\ musique\ de\ fond\r\n
+numComments=2

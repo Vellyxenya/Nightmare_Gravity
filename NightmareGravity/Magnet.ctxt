@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Magnet()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ unStick()
+comment2.text=\r\n\ M\u00E9thode\ qui\ emp\u00EAche\ cet\ objet\ de\ se\ retrouver\ coinc\u00E9\ au\ bord\ de\ l'\u00E9cran\r\n
+comment3.params=
+comment3.target=void\ movements()
+comment3.text=\r\n\ Mouvements\ ...\r\n
+comment4.params=
+comment4.target=void\ match()
+comment4.text=\r\n\ Cr\u00E9e\ un\ r\u00E9seau\ d'arcs\ \u00E9lectriques\ infligeant\ des\ d\u00E9g\u00E2ts\ entre\ chacun\ de\ ces\ objets\r\n
+comment5.params=hurt\ classe
+comment5.target=void\ takeDamageForBoss(int,\ java.lang.Class)
+comment5.text=\r\n\ Si\ cet\ objet\ est\ touch\u00E9\ en\ \u00E9tant\ vuln\u00E9rable,\ c'est\ le\ boss\ qui\ subit\ des\ d\u00E9g\u00E2ts.\r\n\ Sinon\ c'est\ le\ joueur\r\n
+comment6.params=
+comment6.target=void\ beVulnerable()
+comment6.text=\r\n\ P\u00E9riodiquement\ un\ de\ ces\ objets\ devient\ vuln\u00E9rable\ et\ change\ d'image\r\n
+comment7.params=
+comment7.target=void\ justBounce()
+comment7.text=\r\n\ Rebondit\ contre\ les\ auters\ objets\ de\ cette\ classe\r\n
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pieces()
+comment0.text=\r\n\ constructeur\ pour\ les\ pi\u00E8ces\ collectables\r\n
+comment1.params=board
+comment1.target=Pieces(boolean)
+comment1.text=\r\n\ Constructeur\ pour\ l'objet\ affich\u00E9\ sur\ l'indicateur\ de\ nombre\ de\ pi\u00E8ces\ collect\u00E9es\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

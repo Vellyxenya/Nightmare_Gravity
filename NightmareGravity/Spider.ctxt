@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Spider()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ headTo()
+comment2.text=\r\n\ Traque\ le\ personnage.\r\n\ Les\ portes\ activ\u00E9es\ sont\ indiqu\u00E9es\ par\ la\ pr\u00E9sence\ d'un\ Objet\ Ariane\ aux\ coordonn\u00E9es\ de\ la\ porte.\r\n
+comment3.params=
+comment3.target=void\ unlock()
+comment3.text=\r\n\ Une\ fois\ la\ porte\ pass\u00E9e,\ elle\ est\ \u00E0\ nouveau\ d\u00E9sactiv\u00E9e\r\n
+comment4.params=
+comment4.target=void\ hunt()
+comment4.text=\r\n\ Une\ fois\ \u00E0\ port\u00E9e,\ l'araign\u00E9e\ n'a\ plus\ besoin\ de\ portes,\ elle\ se\ dirige\ en\ ligne\ droite\ vers\ le\ personnage\r\n
+comment5.params=
+comment5.target=void\ sonar()
+comment5.text=\r\n\ Sonar\ de\ l'araign\u00E9e\ lui\ permettant\ de\ d\u00E9tecter\ le\ personnage\r\n
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=a\ b\ c\ d\ e\ f
+comment0.target=Hexa(int,\ int,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Construit\ l'hexagone\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Prolonge\ les\ lignes\ des\ hexagone\ p\u00E9riph\u00E9rique\ pour\ faciliter\ le\ puzzle\r\n
+comment2.params=
+comment2.target=void\ verify()
+comment2.text=\r\n\ V\u00E9rifie\ si\ l'hexagone\ est\ dans\ le\ bon\ sens\r\n
+comment3.params=
+comment3.target=void\ update()
+comment3.text=\r\n\ Change\ l'image\ de\ l'hexagone\ apr\u00E8s\ sa\ rotation\r\n
+comment4.params=
+comment4.target=void\ rotate()
+comment4.text=\r\n\ Fait\ tourner\ les\ hexagones\ \u00E0\ droite\ ou\ \u00E0\ gauche\ selon\ que\ l'utilisateur\ fait\ un\ clique\ droit\ ou\ gauche.\r\n
+numComments=5

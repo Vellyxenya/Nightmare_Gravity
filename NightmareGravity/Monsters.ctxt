@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Monsters()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ upAndDown()
+comment2.text=\r\n\ Donne\ un\ mouvement\ ondulatoire\ et\ al\u00E9atoire\ au\ monstre\r\n
+numComments=3

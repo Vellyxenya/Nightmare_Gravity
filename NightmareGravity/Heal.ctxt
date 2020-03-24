@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Heal()
+comment1.params=z
+comment1.target=Heal(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ disappear()
+comment3.text=\r\n\ Dispara\u00EEt\ apr\u00E8s\ la\ dur\u00E9e\ maximale\r\n
+comment4.params=
+comment4.target=void\ heal()
+comment4.text=\r\n\ R\u00E9g\u00E9n\u00E8re\ les\ points\ de\ vie\ du\ joueur\ si\ celui-ci\ vient\ le\ collecter\r\n
+numComments=5

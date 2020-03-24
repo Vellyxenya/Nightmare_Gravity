@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Informations3()
+comment0.text=\r\n\ Initialise\ l'objet\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ drawInfos()
+comment2.text=\r\n\ Informe\ l'utilisateur\ de\ comment\ utiliser\ l'inventaire.\r\n
+numComments=3

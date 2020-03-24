@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SpecialBuffs()
+comment1.params=
+comment1.target=void\ track()
+comment1.text=\r\n\ V\u00E9rifie\ si\ la\ souris\ est\ dessus\r\n
+comment2.params=
+comment2.target=void\ makeSound()
+comment2.text=\r\n\ Produit\ du\ son\ lorsque\ la\ souris\ passe\ dessus\r\n
+comment3.params=
+comment3.target=void\ alreadyOwned()
+comment3.text=\r\n\ Indique\ \u00E0\ l'utilisateur\ qu'il\ poss\u00E8de\ d\u00E9j\u00E0\ tel\ objet\r\n
+comment4.params=
+comment4.target=void\ noMoney()
+comment4.text=\r\n\ Indique\ \u00E0\ l'utilisateur\ qu'il\ n'a\ pas\ assez\ de\ cr\u00E9dits\ pour\ acqu\u00E9rir\ tel\ objet\r\n
+numComments=5

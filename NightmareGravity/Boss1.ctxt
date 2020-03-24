@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Boss1()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ roam()
+comment2.text=\r\n\ Tourne\ autour\ du\ centre\ de\ la\ sc\u00E8ne\r\n
+comment3.params=hurt\ classe
+comment3.target=void\ takeDamageNew(int,\ java.lang.Class)
+comment3.text=\r\n\ Sensible\ aux\ d\u00E9g\u00E2ts\r\n
+comment4.params=
+comment4.target=void\ fire()
+comment4.text=\r\n\ Cr\u00E9e\ trois\ vagues\ de\ tir\ diff\u00E9rentes.\r\n
+numComments=5

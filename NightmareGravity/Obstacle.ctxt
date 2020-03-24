@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=width\ image
+comment1.target=void\ setImage(int,\ greenfoot.GreenfootImage)
+comment1.text=\r\n\ Fait\ appara\u00EEtre\ l'image\ pixel\ par\ pixel\r\n
+comment2.params=
+comment2.target=void\ debug()
+comment2.text=\r\n\ Enl\u00E8ve\ les\ ennemis\ qui\ sortent\ du\ labyrinthe\ \u00E0\ certaines\ occasions\r\n
+numComments=3

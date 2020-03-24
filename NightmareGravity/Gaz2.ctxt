@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Gaz2()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ createPixels()
+comment2.text=\r\n\ Dessine\ un\ effet\ visuel\ violanc\u00E9\ autour\ des\ boules\ lanc\u00E9es\ par\ le\ Boss\r\n
+numComments=3

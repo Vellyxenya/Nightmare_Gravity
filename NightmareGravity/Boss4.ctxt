@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Boss4()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Comportement\ du\ boss\r\n
+comment2.params=hurt\ classe
+comment2.target=void\ takeDamageNew(int,\ java.lang.Class)
+comment2.text=\r\n\ Subit\ des\ d\u00E9g\u00E2ts\ s'il\ touche\ des\ armes\ du\ joueur\r\n
+comment3.params=
+comment3.target=void\ createRifts()
+comment3.text=\r\n\ Cr\u00E9e\ des\ failles\ l\u00E9tales\ sur\ sc\u00E8ne\ et\ les\ propulse\ dans\ toutes\ les\ directions\r\n
+comment4.params=
+comment4.target=void\ createHives()
+comment4.text=\r\n\ Cr\u00E9e\ des\ nids\ de\ monstres\ qui\ attaquent\ si\ le\ boss\ est\ attaqu\u00E9\r\n
+comment5.params=
+comment5.target=void\ exhaust()
+comment5.text=\r\n\ Compteur\ pour\ la\ dur\u00E9e\ de\ l'attaque\r\n
+numComments=6

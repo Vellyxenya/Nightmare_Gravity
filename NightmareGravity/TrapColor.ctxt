@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TrapColor()
+comment0.text=\r\n\ Scan\ l'iamge\ du\ trou\ noir\ et\ en\ fait\ une\ copie\ color\u00E9e\ et\ transparente\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Augmente\ l'opacit\u00E9\ selon\ les\ d\u00E9g\u00E2ts\ subis\ par\ le\ trou\ noir\r\n
+numComments=2

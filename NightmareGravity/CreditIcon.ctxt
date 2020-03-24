@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CreditIcon()
+comment1.params=x
+comment1.target=CreditIcon(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ movements()
+comment3.text=\r\n\ Manipulations\ possible\ de\ l'ic\u00F4ne\r\n
+numComments=4

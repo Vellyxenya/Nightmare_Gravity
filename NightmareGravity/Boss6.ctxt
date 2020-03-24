@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Boss6()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=hurt\ classe
+comment2.target=void\ takeDamageNew(int,\ java.lang.Class)
+comment2.text=\r\n\ S'il\ touche\ des\ armes\ du\ joueur,\ il\ ne\ subit\ aucn\ d\u00E9g\u00E2ts\ mais\ c'est\ le\ joueur\ qui\ est\ puni\r\n
+comment3.params=
+comment3.target=void\ createMagnets()
+comment3.text=\r\n\ Cr\u00E9e\ des\ objets\ qui\ rebondissent\ entre\ eux\r\n
+comment4.params=
+comment4.target=void\ getMagnets()
+comment4.text=\r\n\ S\u00E9lectionne\ un\ objet\ al\u00E9atoire\ et\ le\ rend\ vuln\u00E9rable\ p\u00E9riodiquement\r\n
+numComments=5

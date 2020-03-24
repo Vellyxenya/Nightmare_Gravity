@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=text\ width\ height
+comment0.target=Informations(java.lang.String,\ int,\ int)
+comment0.text=\r\n\ Construit\ l'\u00E9cran\ d'information\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Dessine\ des\ lignes\ verticales\ et\ horizontales\ sur\ l'\u00E9cran\ d'information\r\n
+comment2.params=space\ width\ color
+comment2.target=void\ drawBackground(int,\ int,\ java.awt.Color)
+comment2.text=\r\n\ Dessine\ un\ rectangle\ avec\ des\ coins\ arrondis\r\n
+comment3.params=text
+comment3.target=void\ writeText(java.lang.String)
+comment3.text=\r\n\ Dessine\ le\ texte\ \u00E0\ afficher\ sur\ l'\u00E9cran\ d'information\r\n
+numComments=4

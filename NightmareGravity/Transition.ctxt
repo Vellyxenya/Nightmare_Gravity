@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Transition()
+comment0.text=\r\n\ Cr\u00E9e\ l'\u00E9cran\ blanc\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Diminue\ la\ transparence\ de\ l'\u00E9cran\ jusqu'\u00E0\ ce\ qu'il\ devient\ opaque\ puis\ le\ fait\ dispara\u00EEtre\r\n
+numComments=2

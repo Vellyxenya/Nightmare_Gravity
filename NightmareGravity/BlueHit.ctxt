@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=rotation\ laser
+comment0.target=BlueHit(int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Mouvements\r\n
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Credit(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ credit()
+comment2.text=\r\n\ Donne\ des\ cr\u00E9dits\ au\ joueur\r\n
+numComments=3

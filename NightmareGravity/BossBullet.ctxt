@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ count()
+comment1.text=\r\n\ Si\ elle\ touche\ le\ vaisseau\ du\ joueur\ le\ compteur\ se\ d\u00E9clenche\r\n
+comment2.params=
+comment2.target=void\ delete()
+comment2.text=\r\n\ Apr\u00E8s\ 2\ act,\ l'objet\ dispara\u00EEt\r\n
+numComments=3

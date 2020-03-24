@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Weapon1()
+comment0.text=\r\n\ Initialise\ le\ carr\u00E9\ (Chaque\ carr\u00E9\ est\ d\u00E9truit\ et\ recr\u00E9\u00E9\ \u00E0\ chaque\ act\ pour\ la\ fluidit\u00E9\ du\ laser)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ detectShield()
+comment2.text=\r\n\ Si\ le\ laser\ du\ vaisseau\ 1\ touche\ le\ boucler\ de\ la\ classe\ Reflector,\ le\ joueur\ subit\ des\ d\u00E9g\u00E2ts\r\n
+numComments=3

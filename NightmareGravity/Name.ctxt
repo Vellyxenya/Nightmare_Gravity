@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Name()
+comment0.text=\r\n\ Construit\ l'image\ du\ pseudo\ en\ le\ r\u00E9cup\u00E9rant\ dans\ le\ fichier\ texte\ de\ stockage\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ R\u00E9duit\ la\ taille\ de\ l'image\ jusqu'\u00E0\ ce\ qu'elle\ tienne\ sur\ l'\u00E9cran\ (Effet\ visuel)\r\n
+numComments=2

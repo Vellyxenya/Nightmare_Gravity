@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=xMouse\ yMouse\ xGear\ yGear\ rotation
+comment0.target=Hawk(int,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Initialise\ un\ missile\ en\ mode\ rafale\r\n
+comment1.params=rotation\ actor
+comment1.target=Hawk(int,\ greenfoot.Actor)
+comment1.text=\r\n\ Initialise\ un\ missile\ en\ mode\ ciblage\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ G\u00E8re\ quel\ mode\ de\ tir\ utiliser,\ quand\ il\ faut\ tourner,\ quand\ il\ ne\ faut\ plus,\ les\ sons\ etc...\r\n
+comment3.params=
+comment3.target=void\ noRotation()
+comment3.text=\r\n\ Ne\ tourne\ plus\ au\ bout\ d'un\ certain\ moment\r\n
+comment4.params=
+comment4.target=int\ direction()
+comment4.text=\r\n\ Choisit\ la\ direction\ \u00E0\ prendre\ selon\ la\ position\ relative\ de\ la\ souris\ et\ du\ vaisseau\r\n
+comment5.params=
+comment5.target=void\ target()
+comment5.text=\r\n\ Cible\ un\ ennemi\ en\ particulier\r\n
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ collect()
+comment1.text=\r\n\ Se\ dirige\ vers\ le\ vaisseau\ si\ celui-ci\ poss\u00E8de\ la\ comp\u00E9tence\ qui\ attire\ ces\ objets.\r\n
+numComments=2

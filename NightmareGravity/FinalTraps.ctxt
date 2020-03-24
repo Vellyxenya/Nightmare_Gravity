@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FinalTraps()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Surcharge\ le\ trou\ noir\ en\ subissant\ des\ d\u00E9g\u00E2ts.\ Une\ fois\ surcharg\u00E9\ se\ d\u00E9placement\ dans\ la\r\n\ direction\ oppos\u00E9e\ \u00E0\ celle\ du\ joueur.\ S'il\ touche\ le\ boss,\ il\ lui\ inflige\ de\ lourds\ d\u00E9g\u00E2ts\r\n
+numComments=2

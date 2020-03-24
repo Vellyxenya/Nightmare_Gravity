@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=credit
+comment1.target=void\ showCrediter(int)
+comment1.text=\r\n\ dessine\ le\ nombre\ de\ cr\u00E9dits\ actuellement\ en\ possession\ du\ joueur\r\n
+numComments=2

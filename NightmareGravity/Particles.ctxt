@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Particles(int,\ int)
+comment0.text=\r\n\ N'infligent\ pas\ de\ d\u00E9g\u00E2ts\ quand\ il\ sont\ en\ train\ d'\u00EAtre\ collect\u00E9s\ par\ le\ boss\r\n
+comment1.params=
+comment1.target=Particles()
+comment1.text=\r\n\ Infligent\ des\ d\u00E9g\u00E2ts\ quand\ ils\ sont\ propuls\u00E9s\ par\ le\ boss\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ disappear()
+comment3.text=\r\n\ Dispara\u00EEt\ si\ elle\ touche\ le\ 8e\ Boss\r\n
+comment4.params=
+comment4.target=void\ follow()
+comment4.text=\r\n\ Se\ dirige\ vers\ le\ 8e\ boss\r\n
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Selection()
+comment0.text=\r\n\ Initialise\ les\ objets\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ addObjects()
+comment2.text=\r\n\ Cr\u00E9e\ les\ fl\u00E8ches,\ le\ bouton\ de\ s\u00E9lection\ ainsi\ que\ l'image\ des\ vaisseaux\r\n
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\r\n\ Affiche\ le\ titre\ de\ la\ fen\u00EAtre\r\n
+comment4.params=x\ y
+comment4.target=void\ informate(int,\ int)
+comment4.text=\r\n\ Affiche\ les\ informations\ relatives\ au\ vaisseau\ concern\u00E9\r\n
+comment5.params=
+comment5.target=void\ locked()
+comment5.text=\r\n\ M\u00E9thode\ bloquant\ les\ vaisseaux\ pas\ encore\ acquis\r\n
+numComments=6

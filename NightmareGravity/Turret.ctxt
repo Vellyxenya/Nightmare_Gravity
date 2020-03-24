@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=angle
+comment0.target=Turret(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ rotate()
+comment2.text=\r\n\ Se\ tourne\ vers\ le\ vaisseau\r\n
+comment3.params=
+comment3.target=void\ transparent()
+comment3.text=\r\n\ Dispara\u00EEt\ si\ la\ rotation\ sort\ du\ domaine\ de\ d\u00E9finition\r\n
+comment4.params=
+comment4.target=void\ shoot()
+comment4.text=\r\n\ Tire\ sur\ le\ personnage\r\n
+numComments=5

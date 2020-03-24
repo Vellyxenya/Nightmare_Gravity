@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PseudoAnim()
+comment0.text=\r\n\ Trouve\ le\ pseudo\ de\ l'utilisateur\ dans\ le\ fichier\ texte\ de\ stockage\ et\ initialise\ les\ variables\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ L'impression\ r\u00E9p\u00E9titive\ du\ pseudo\ est\ de\ plus\ en\ plus\ centr\u00E9e\r\n
+comment2.params=
+comment2.target=void\ animate2()
+comment2.text=\r\n\ Invoque\ des\ repr\u00E9sentations\ du\ pseudo\ \u00E0\ chaque\ act\r\n
+numComments=3

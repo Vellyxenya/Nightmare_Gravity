@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Raptor()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ movements()
+comment2.text=\r\n\ D\u00E9placement\ horizontal\ de\ droite\ \u00E0\ gauche\ quelle\ que\ soit\ la\ direction\ de\ ce\ objet\r\n
+comment3.params=
+comment3.target=void\ faceGear()
+comment3.text=\r\n\ S'oriente\ en\ direction\ du\ vaisseau\ de\ l'utilisateur\r\n
+comment4.params=
+comment4.target=void\ fire()
+comment4.text=\r\n\ Tire\ sur\ le\ vaisseau\ de\ l'utilisateur\ p\u00E9riodiquement.\ Fr\u00E9quence\ assez\ \u00E9lev\u00E9e\r\n
+numComments=5

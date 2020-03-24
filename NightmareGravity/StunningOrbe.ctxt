@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=rotation
+comment0.target=StunningOrbe(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ stick()
+comment2.text=\r\n\ Se\ colle\ au\ vaisseau\ du\ joueur\ s'il\ le\ touche\r\n
+comment3.params=
+comment3.target=void\ dealDamage()
+comment3.text=\r\n\ Inflige\ au\ joueur\ des\ d\u00E9g\u00E2t\ peu\ \u00E9lev\u00E9s\r\n
+comment4.params=
+comment4.target=void\ disappear()
+comment4.text=\r\n\ Dispara\u00EEt\ apr\u00E8s\ deux\ secondes\ et\ lib\u00E8re\ le\ vaisseau\ du\ joueur\r\n
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=rotation\ speed
+comment0.target=Weapon2(int,\ int)
+comment0.text=\r\n\ Construit\ la\ balle\ pour\ le\ 3e\ vaisseau\r\n
+comment1.params=rotation\ speed\ i
+comment1.target=Weapon2(int,\ int,\ int)
+comment1.text=\r\n\ Construit\ la\ balle\ pour\ les\ autres\ vaisseaux\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ disappear()
+comment3.text=\r\n\ S'il\ touche\ un\ Arc\ \u00E9lectrique,\ le\ joueur\ est\ puni\ par\ un\ \u00E9clair\r\n
+comment4.params=classe
+comment4.target=void\ disappear2(java.lang.Class)
+comment4.text=\r\n\ Dispara\u00EEt\ 2\ act\ apr\u00E8s\ qu'il\ ait\ touch\u00E9\ telle\ classe\r\n\ @param\ classe\:\ classe\ \u00E0\ toucher\r\n
+numComments=5

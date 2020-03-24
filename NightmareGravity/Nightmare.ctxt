@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=level
+comment0.target=Nightmare(int)
+comment0.text=\r\n\ Construit\ la\ sc\u00E8ne\ avec\ les\ 10\ cases\ \u00E0\ choix\r\n
+comment1.params=array
+comment1.target=int\ numberOfOne(int[])
+comment1.text=\r\n\ Compte\ le\ nombre\ de\ 1\ dans\ un\ tableau\ de\ nombres\ entiers\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Change\ l'image\ du\ curseur\ de\ la\ souris\r\n
+numComments=3

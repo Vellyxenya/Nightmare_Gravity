@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Arrows()
+comment1.params=
+comment1.target=void\ makeSound()
+comment1.text=\r\n\ Produit\ un\ son\ si\ l'utilisateur\ clique\ sur\ ce\ bouton\r\n
+comment2.params=color
+comment2.target=void\ drawArrow(java.awt.Color)
+comment2.text=\r\n\ Dessine\ une\ fl\u00E8che\ avec\ la\ couleur\ donn\u00E9e\r\n
+numComments=3

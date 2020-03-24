@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=void\ movements(int)
+comment0.text=\r\n\ Le\ Boss\ arrive\ dans\ le\ monde\ jusqu'\u00E0\ une\ certaine\ distance\r\n
+comment1.params=health\ maxHealth
+comment1.target=void\ drawHealthBar(int,\ int)
+comment1.text=\r\n\ M\u00E9thode\ dessinant\ la\ barre\ de\ vie\ du\ Monstre.\r\n
+comment2.params=width\ image
+comment2.target=void\ setImage(int,\ greenfoot.GreenfootImage)
+comment2.text=\r\n\ M\u00E9thode\ faisant\ appara\u00EEtre\ le\ boss\ pixel\ par\ pixel.\r\n
+numComments=3

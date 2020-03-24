@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RegenIcon()
+comment1.params=x
+comment1.target=RegenIcon(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ movements()
+numComments=4

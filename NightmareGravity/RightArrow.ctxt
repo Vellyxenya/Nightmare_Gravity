@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RightArrow()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ next()
+comment2.text=\r\n\ Passage\ \u00E0\ l'image\ 0\ si\ l'on\ est\ \u00E0\ l'image\ 3\r\n\ et\ change\ l'image\ quand\ la\ souris\ est\ dessus\r\n
+numComments=3

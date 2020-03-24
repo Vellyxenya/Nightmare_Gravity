@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Asteroid()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=hurt\ classe
+comment2.target=void\ takeDamageNew(int,\ java.lang.Class)
+comment2.text=\r\n\ Subit\ des\ d\u00E9g\u00E2ts\ des\ tirs\ du\ vaisseau\r\n
+comment3.params=
+comment3.target=void\ justBounce()
+comment3.text=\r\n\ Rebondit\ contre\ les\ autres\ ast\u00E9ro\u00EFdes\r\n
+comment4.params=
+comment4.target=void\ stick()
+comment4.text=\r\n\ Se\ colle\ au\ vaisseau\ s'il\ a\ moins\ de\ la\ moiti\u00E9\ de\ ses\ points\ de\ vie\ et\ s'il\ reste\ \u00E0\ une\ certaine\ distance\ du\ vaisseau\ pendant\ un\ certain\ moment\r\n
+comment5.params=
+comment5.target=void\ follow()
+comment5.text=\r\n\ Une\ fois\ coll\u00E9\ au\ vaisseau,\ il\ le\ suit\ dans\ tous\ ses\ d\u00E9placements\r\n
+comment6.params=
+comment6.target=void\ explode()
+comment6.text=\r\n\ Explose\ s'il\ entre\ en\ collision\ avec\ le\ vaisseau,\ infligeant\ des\ d\u00E9g\u00E2ts\r\n
+comment7.params=
+comment7.target=void\ changeImage()
+comment7.text=\r\n\ Change\ d'image\ s'il\ a\ moins\ de\ la\ moiti\u00E9\ de\ ses\ pv\ max\r\n
+comment8.params=
+comment8.target=void\ detectZones()
+comment8.text=\r\n\ Renvoie\ si\ les\ 6\ zones\ de\ protection\ du\ vaisseau\ sont\ couvertes\ par\ un\ ast\u00E9ro\u00EFde\ ou\ pas\r\n
+numComments=9

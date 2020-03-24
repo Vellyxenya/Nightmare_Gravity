@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TheEdge()
+comment0.text=\r\n\ Met\ en\ place\ l'ordre\ de\ chevauchement\ des\ acteurs\r\n
+comment1.params=
+comment1.target=void\ draw()
+comment1.text=\r\n\ M\u00E9thode\ dessinant\ le\ bouton\ "back"\r\n
+comment2.params=
+comment2.target=void\ backToMenu()
+comment2.text=\r\n\ M\u00E9thode\ servant\ \u00E0\ revenir\ au\ menu\ principal\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=image\ XClick\ YClick
+comment4.target=void\ ChangeMouseImage(greenfoot.GreenfootImage,\ int,\ int)
+comment4.text=\r\n\ M\u00E9thode\ changeant\ l'image\ du\ curseur\ de\ la\ souris\r\n
+comment5.params=
+comment5.target=void\ mouse()
+comment5.text=\r\n\ M\u00E9thode\ qui\ appliqu\u00E9\ un\ effet\ sp\u00E9cial\ vers\ le\ pointeur\ du\ curseur\ de\ la\ souris\r\n
+numComments=6

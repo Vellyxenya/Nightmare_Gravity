@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameOver()
+comment0.text=\r\n\ Ecran\ de\ fin\ de\ partie.\r\n
+comment1.params=win
+comment1.target=GameOver(boolean)
+comment1.text=\r\n\ Ecran\ de\ fin\ de\ partie.\r\n\ @param\ lost\ \:\ true\ si\ le\ joueur\ a\ perdu\ la\ partie,\ false\ si\ le\ joueur\ a\ gagn\u00E9\r\n
+comment2.params=
+comment2.target=void\ finishAndStore()
+comment2.text=\r\n\ Sauvegarde\ les\ donn\u00E9es\ de\ la\ partie\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ drawText()
+comment4.text=\r\n\ Affiche\ les\ statistiques\ du\ joueur\r\n
+comment5.params=
+comment5.target=void\ replay()
+comment5.text=\r\n\ Propose\ au\ joueur\ de\ recommencer\ une\ nouvelle\ partie\r\n
+numComments=6

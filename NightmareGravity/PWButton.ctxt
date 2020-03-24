@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PWButton()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ D\u00E9etecte\ si\ l'utilisateur\ vient\ de\ cliquer\ sur\ ce\ bouton\r\n
+comment2.params=
+comment2.target=void\ effect()
+comment2.text=\r\n\ Effet\ de\ la\ souris\ et\ s\u00E9lection\ du\ bouton\r\n
+numComments=3

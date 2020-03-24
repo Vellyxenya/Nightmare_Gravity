@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pseudo()
+comment0.text=\r\n\ R\u00E9cup\u00E8re\ le\ pseudo\ depuis\ le\ compte\ de\ l'utilisateur\ stock\u00E9\ dans\ un\ fichier\ .txt\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Suit\ les\ mouvements\ du\ vaisseau\r\n
+numComments=2

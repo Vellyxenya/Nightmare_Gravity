@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Login()
+comment0.text=\r\n\ Initialise\ le\ bouton\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ D\u00E9tecte\ si\ le\ pseudo\ et\ le\ mot\ de\ passe\ correspondent\r\n
+comment2.params=
+comment2.target=void\ login()
+comment2.text=\r\n\ Contient\ les\ m\u00E9thodes\ pour\ se\ loguer\ au\ compte\ \u00E0\ la\ base\ d'un\ fichier\ texte\r\n
+numComments=3

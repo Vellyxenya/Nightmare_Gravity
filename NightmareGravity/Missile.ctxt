@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Missile()
+comment0.text=\r\n\ Initialise\ le\ missile\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ faceGear()
+comment2.text=\r\n\ Permet\ au\ missile\ de\ suivre\ sa\ trajectoire\ et\ de\ s'auto-d\u00E9truire\ si\ l'angle\ de\ rotation\ est\ trop\ grand\r\n
+comment3.params=
+comment3.target=void\ count()
+comment3.text=\r\n\ D\u00E9clenche\ le\ compteur\ s'il\ touche\ un\ objet\ de\ la\ classe\ Gears\r\n
+comment4.params=
+comment4.target=void\ disappear()
+comment4.text=\r\n\ Dispara\u00EEt\ apr\u00E8s\ 2\ acts,\ pour\ qu'il\ ait\ le\ temps\ d'infliger\ des\ d\u00E9g\u00E2ts\r\n
+numComments=5

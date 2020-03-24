@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Store()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ drawTitle()
+comment2.text=\r\n\ Dessine\ le\ titre\ de\ l'onglet\r\n
+comment3.params=
+comment3.target=void\ addObjects()
+comment3.text=\r\n\ Rajoute\ le\ bouton\ servant\ \u00E0\ revenir\ au\ menu\ principal\r\n
+comment4.params=
+comment4.target=void\ drawCredit()
+comment4.text=\r\n\ Affiche\ le\ montant\ de\ cr\u00E9dits\ poss\u00E9d\u00E9\r\n
+comment5.params=
+comment5.target=void\ putItems()
+comment5.text=\r\n\ Ajoute\ les\ comp\u00E9tences\ qui\ peuvent\ \u00EAtre\ acquises\r\n
+comment6.params=
+comment6.target=void\ drawPrices()
+comment6.text=\r\n\ Affiche\ le\ prix\ de\ chaque\ comp\u00E9tence\r\n
+comment7.params=x\ y
+comment7.target=void\ informate(int,\ int)
+comment7.text=\r\n\ Cr\u00E9e\ l'Object\ de\ classe\ Informations\ qui\ indique\ \u00E0\ l'utilisateur\ l'utilit\u00E9\ de\ chaque\ comp\u00E9tence\r\n
+numComments=8

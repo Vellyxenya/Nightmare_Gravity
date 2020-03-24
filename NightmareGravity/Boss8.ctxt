@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Boss8()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=hurt\ classe
+comment2.target=void\ takeDamageNew(int,\ java.lang.Class)
+comment2.text=\r\n\ Sensible\ aux\ d\u00E9g\u00E2ts.\ Si\ la\ vie\ tombe\ \u00E0\ z\u00E9ro\ celui-ci\ dispara\u00EEt\ et\ seule\ sa\ partie\ frontale\ subsiste\r\n\ Il\ faut\ alors\ l'\u00E9liminer\ \u00E0\ son\ tour\r\n
+comment3.params=
+comment3.target=void\ spread()
+comment3.text=\r\n\ Cr\u00E9e\ ses\ protections\ \u00E0\ son\ apparition\r\n
+comment4.params=
+comment4.target=void\ movement()
+comment4.text=\r\n\ Mouvement\ du\ boss\r\n
+comment5.params=
+comment5.target=void\ attack()
+comment5.text=\r\n\ Ordonne\ \u00E0\ ses\ protections\ d'attaquer\r\n
+comment6.params=
+comment6.target=void\ harvest()
+comment6.text=\r\n\ Collecte\ des\ rayons\ d'\u00E9nergie\ pour\ ensuite\ les\ expulser,\ phase\ vuln\u00E9rable\r\n
+comment7.params=
+comment7.target=void\ begin()
+comment7.text=\r\n\ Cr\u00E9e\ une\ pluie\ de\ particules\ apr\u00E8s\ avoir\ eu\ assez\ d'\u00E9nergie\r\n
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=time
+comment1.target=void\ showTimer(int)
+comment1.text=\r\n\ Affiche\ le\ temps\ \u00E9coul\u00E9\r\n
+numComments=2

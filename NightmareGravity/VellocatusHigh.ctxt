@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VellocatusHigh()
+comment0.text=\r\n\ Initialise\ les\ variables\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ mvt1()
+comment2.text=\r\n\ Animation\ d'apparition\r\n
+comment3.params=
+comment3.target=void\ mvt2()
+comment3.text=\r\n\ s'ouvre\ pour\ collecter\ de\ l'\u00E9nergie\ (Rend\ le\ Boss\ vuln\u00E9rable\r\n
+comment4.params=
+comment4.target=void\ follow()
+comment4.text=\r\n\ Suit\ le\ boss\ dans\ ses\ mouvements\r\n
+comment5.params=
+comment5.target=void\ attack0()
+comment5.text=\r\n\ Attaque\ le\ joueur\r\n
+comment6.params=classe
+comment6.target=void\ takeDamageNew(java.lang.Class)
+comment6.text=\r\n\ Si\ le\ joueur\ lui\ tire\ dessus,\ il\ prot\u00E8ge\ le\ boss\ et\ inflige\ des\ d\u00E9g\u00E2ts\ aux\ joueurs\r\n
+numComments=7

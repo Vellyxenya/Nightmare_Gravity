@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=rotation
+comment0.target=Bullet2(int)
+comment0.text=\r\n\ Initialise\ la\ balle\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ disappear()
+comment2.text=\r\n\ Dispara\u00EEt\ si\ la\ balle\ touche\ un\ mur\r\n
+numComments=3

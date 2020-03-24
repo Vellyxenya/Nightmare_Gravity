@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TP2()
+comment1.params=
+comment1.target=void\ takeDamgeForBoss()
+comment1.text=\r\n\ Le\ boss\ subit\ des\ d\u00E9g\u00E2ts\ quand\ cet\ objet\ est\ touch\u00E9\ (Cet\ objet\ est\ invisible)\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ R\u00E9colte\ les\ tirs\ de\ l'objet\ TP\ et\ les\ g\u00E9n\u00E8re\ \u00E0\ partir\ de\ sa\ position\ actuelle\r\n
+numComments=3

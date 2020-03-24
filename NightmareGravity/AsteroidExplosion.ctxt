@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AsteroidExplosion()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=fileName
+comment2.target=void\ initializeImagesShock(java.lang.String)
+comment2.text=\r\n\ Initialise\ les\ images\ de\ l'animation\r\n
+comment3.params=
+comment3.target=void\ propagate()
+comment3.text=\r\n\ La\ vague\ grossit\ et\ se\ propage\ jusqu'\u00E0\ ce\ que\ sa\ taille\ maximale\ soit\ atteinte\ avant\ de\ dispara\u00EEtre\r\n
+numComments=4

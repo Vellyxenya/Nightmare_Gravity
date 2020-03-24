@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Boss7Clone()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Devient\ de\ plsu\ en\ plus\ transparent\ jusqu'\u00E0\ dispar\r\n
+comment2.params=
+comment2.target=void\ change()
+comment2.text=\r\n\ Si\ le\ joueur\ clique\ sur\ cet\ objet,\ il\ change\ de\ place\ avec\ le\ boss\r\n
+numComments=3

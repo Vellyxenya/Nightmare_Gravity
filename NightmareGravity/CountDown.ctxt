@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=maxTime\ time
+comment1.target=void\ showCounter(int,\ int)
+comment1.text=\r\n\ Dessine\ le\ temps\ restant\ en\ secondes\r\n
+numComments=2

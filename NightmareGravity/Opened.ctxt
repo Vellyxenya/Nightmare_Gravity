@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=rotation\ width
+comment0.target=Opened(int,\ int)
+comment0.text=\r\n\ Construit\ la\ porte\ avec\ la\ rotation\ et\ la\ largeur\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ switchDoors()
+comment2.text=\r\n\ S'active\ si\ le\ personnage\ passe\ par\ l\u00E0\r\n
+comment3.params=
+comment3.target=void\ pass()
+comment3.text=\r\n\ Prend\ en\ compte\ le\ passage\ en\ sens\ inverse\ et\ d\u00E9sactive\ la\ porte\r\n
+comment4.params=
+comment4.target=void\ changeImage()
+comment4.text=\r\n\ Place\ un\ objet\ Ariane\ si\ active,\ l'enl\u00E8ve\ dans\ le\ cas\ contraire\r\n
+numComments=5

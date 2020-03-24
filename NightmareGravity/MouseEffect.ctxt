@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=rotation
+comment0.target=MouseEffect(int)
+comment0.text=\r\n\ Initialise\ le\ cercle\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Le\ disque\ gradit\ et\ gagne\ en\ transparence\ jusqu'\u00E0\ ce\ qu'il\ disparaisse\r\n
+numComments=2

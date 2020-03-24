@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=images\ i\ subtitles
+comment0.target=Yay(greenfoot.GreenfootImage[],\ int,\ java.lang.String[])
+comment0.text=\r\n\ Initialise\ la\ premi\u00E8re\ image\ de\ la\ cin\u00E9matique\ et\ initialise\ les\ variables\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Passe\ fluidement\ d'une\ image\ \u00E0\ l'autre\r\n
+comment2.params=subtitles
+comment2.target=void\ drawSubtitles(java.lang.String)
+comment2.text=\r\n\ Centre\ les\ sous-titres\ en\ bas\ de\ l'image\ et\ dessine\ un\ contour\ noir\ autour\ de\ chaque\ lettre\r\n
+numComments=3

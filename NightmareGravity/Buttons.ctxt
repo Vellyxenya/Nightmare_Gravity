@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Buttons()
+comment0.text=\r\n\ Construit\ l'image\ du\ bouton\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Change\ l'image\ du\ curseur\ de\ la\ souris\ si\ celle-ci\ se\ trouve\ sur\ un\ bouton\r\n
+comment2.params=
+comment2.target=void\ changeImage()
+comment2.text=\r\n\ Change\ l'image\ du\ bouton\ si\ la\ souris\ est\ dessus\r\n
+comment3.params=
+comment3.target=void\ track()
+comment3.text=\r\n\ Retourne\ si\ la\ souris\ est\ sur\ cet\ objet\ ou\ pas\r\n
+comment4.params=
+comment4.target=void\ makeSound()
+comment4.text=\r\n\ Produit\ un\ son\ lorsque\ la\ souris\ passe\ sur\ cet\ objet\r\n
+numComments=5

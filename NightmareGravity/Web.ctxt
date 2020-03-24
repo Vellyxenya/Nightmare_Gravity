@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=rotation
+comment0.target=Web(int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Mouvements\ plus\ d\u00E9tection\ de\ collision\ avec\ les\ ennemis\r\n
+comment2.params=
+comment2.target=void\ back()
+comment2.text=\r\n\ Se\ dirige\ vers\ Revenger\ une\ fois\ que\ celui-ci\ est\ cr\u00E9\u00E9\r\n
+numComments=3

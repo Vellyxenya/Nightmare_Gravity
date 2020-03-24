@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Boss5()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=hurt\ classe
+comment2.target=void\ takeDamageNew(int,\ java.lang.Class)
+comment2.text=\r\n\ Sensible\ aux\ d\u00E9g\u00E2ts\r\n
+comment3.params=
+comment3.target=void\ createAshes()
+comment3.text=\r\n\ Lance\ des\ ast\u00E9ro\u00EFdes\ en\ trajectoire\ courbe\r\n
+comment4.params=
+comment4.target=void\ createGaz()
+comment4.text=\r\n\ G\u00E9n\u00E8re\ un\ gaz\ infligeant\ des\ d\u00E9g\u00E2ts\ au\ joueur\r\n
+comment5.params=
+comment5.target=void\ createGaz2()
+comment5.text=\r\n\ Simple\ effet\ visuel\r\n
+comment6.params=
+comment6.target=void\ createAsteroids()
+comment6.text=\r\n\ G\u00E9n\u00E8re\ des\ ast\u00E9ro\u00EFdes\ utiles\ au\ joueur\r\n
+comment7.params=
+comment7.target=void\ countProtection()
+comment7.text=\r\n\ D\u00E9tecte\ le\ nombre\ d'ast\u00E9ro\u00EFdes\ qui\ prot\u00E8gent\ le\ joueur\r\n
+comment8.params=
+comment8.target=int\ getCounter()
+comment8.text=\r\n\ Retourne\ le\ nombre\ de\ protections\r\n
+numComments=9

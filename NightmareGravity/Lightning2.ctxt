@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lightning2()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=width\ image
+comment2.target=void\ setImage(int,\ greenfoot.GreenfootImage)
+numComments=3

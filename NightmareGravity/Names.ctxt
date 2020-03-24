@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Names()
+comment0.text=\r\n\ Cherche\ le\ nom\ de\ l'utilisateur\ dans\ le\ fichier\ de\ stockage\ et\ en\ construit\ une\ image\ rouge\ stylis\u00E9e\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Se\ d\u00E9place\ vers\ le\ bord\ de\ l'\u00E9cran\ et\ dispara\u00EEt\ une\ fois\ l'animation\ termin\u00E9e\r\n
+numComments=2

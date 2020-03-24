@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=rotation
+comment0.target=Lightning(int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Mouvement\ des\ branches\ de\ l'\u00E9clair\ pour\ l'animation\r\n
+numComments=2

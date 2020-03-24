@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Revenger()
+comment0.text=\r\n\ En\ tant\ qu'ennemi\ normal\r\n
+comment1.params=life\ image
+comment1.target=Revenger(int,\ greenfoot.GreenfootImage)
+comment1.text=\r\n\ En\ tant\ que\ Boss\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ attack1()
+comment3.text=\r\n\ Lance\ des\ boules\ sur\ le\ joueur\r\n
+comment4.params=
+comment4.target=void\ attack2()
+comment4.text=\r\n\ Recule\ un\ moment\ puis\ cr\u00E9e\ un\ laser\ en\ direction\ du\ joueur\r\n
+comment5.params=
+comment5.target=void\ likeABoss()
+comment5.text=\r\n\ Comportement\ en\ tant\ que\ boss\r\n
+numComments=6

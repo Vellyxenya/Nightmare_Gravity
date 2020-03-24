@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=number\ duration
+comment0.target=Point(int,\ int)
+comment0.text=\r\n\ Initialise\ un\ point\ vert.\r\n\ @param\ number\ 0\ fait\ d\u00E9placer\ le\ point\ horizontalement;\ 1\ fait\ d\u00E9placer\ le\ point\ verticalement\r\n\ @param\ duration\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ D\u00E9finit\ les\ \u00E9v\u00E9nements\ auxquels\ r\u00E9agit\ le\ point\r\n
+numComments=2

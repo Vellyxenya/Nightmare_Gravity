@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=image\ actors
+comment0.target=Screenshot(greenfoot.GreenfootImage,\ java.util.List)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Passe\ \u00E0\ la\ fen\u00EAtre\ GameOver\ apr\u00E8s\ un\ petit\ moment\r\n
+comment2.params=
+comment2.target=void\ grayScale()
+comment2.text=\r\n\ Algorithme\ pour\ d\u00E9saturer\ une\ image\r\n
+numComments=3
